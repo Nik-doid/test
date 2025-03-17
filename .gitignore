@@ -1,0 +1,4 @@
+/venv
+myapp/myapp/__pycache__
+myapp/users/__pycache__
+myapp/users/migrations
